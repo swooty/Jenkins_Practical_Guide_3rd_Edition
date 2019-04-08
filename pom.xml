@@ -69,7 +69,6 @@
   </properties>
   
   <build>
-  <pluginManagement>
     <plugins>
       <!-- Build Configuration -->
       <plugin>
@@ -153,6 +152,5 @@
       </plugin>
 
     </plugins>
-  </pluginManagement>
   </build>
 </project>
